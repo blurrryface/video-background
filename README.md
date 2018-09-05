@@ -65,7 +65,7 @@ Create a file called style.css and add it to our css folder. After that, let's a
 </head>
 
 Open style.css and add this code:
-
+<code>
 * {
     margin: 0; /* we dont want any content of have margin or padding unless otherwise specified */
     padding: 0;
@@ -74,7 +74,7 @@ Open style.css and add this code:
 body {
     font-family: ; /* you can add your font here or at the .content class */
 }
-
+</code>
 /* VIDEO BACKGROUND
 ************************/
 .video-background {
